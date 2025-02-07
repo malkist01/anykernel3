@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Teletubies Kernel for Redmi note 4/4x / Redmi 4X by Malkist 
+kernel.string=Teletubies Kernel for santoni,mido,j6primelte by Malkist 
 do.devicecheck=1
 do.modules=0
 do.systemless=0
@@ -12,6 +12,8 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=mido
 device.name2=santoni
+device.name3=j6primelte
+device.name4=j4primelte
 supported.versions=
 supported.patchlevels=
 '; } # end properties
