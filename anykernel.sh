@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Teletubies Kernel for santoni,mido,j6primelte by Malkist 
+kernel.string=Teletubies Kernel by Malkist 
 do.devicecheck=1
 do.modules=0
 do.systemless=0
