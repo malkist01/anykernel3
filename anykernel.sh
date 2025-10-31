@@ -18,6 +18,8 @@ device.name5=a7xelte
 device.name6=a7xeltexx
 device.name7=a7xelteub
 device.name8=a7xeltedo
+device.name9=CPH2083
+device.name10=OP4BFB
 supported.versions=
 supported.patchlevels=
 '; } # end properties
