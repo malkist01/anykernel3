@@ -11,16 +11,7 @@ do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=mido
-device.name2=santoni
-device.name3=j6primelte
-device.name4=j4primelte
-device.name5=a7xelte
-device.name6=a7xeltexx
-device.name7=a7xelteub
-device.name8=a7xeltedo
-device.name9=CPH2083
-device.name10=OP4BFB
-supported.versions=
+supported.versions=14.0-16.0
 supported.patchlevels=
 '; } # end properties
 
