@@ -10,8 +10,8 @@ do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=mido
-supported.versions=14.0-16.0
+device.name1=santoni
+supported.versions=11.0-16.0
 supported.patchlevels=
 '; } # end properties
 
