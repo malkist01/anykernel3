@@ -411,8 +411,8 @@ if [ -f version ]; then
   ui_print " ";
 fi;
 ui_print "=====================================";
-ui_print "|  Kernel         : Teletubies 🕊️  |";
-ui_print "|  Device         : Mido          |";
+ui_print "|  Kernel         : Teletubies 🕊️   |";
+ui_print "|  Device         : Mido            |";
 ui_print "|  Linux version  : 4.19.325        |";
 ui_print "|  Maintainer     : Unknown         |";
 ui_print "|===================================|";
