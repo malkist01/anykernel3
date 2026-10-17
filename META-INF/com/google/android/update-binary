@@ -571,7 +571,7 @@ if [ "$(file_getprop anykernel.sh do.cleanup)" == 1 ]; then
 fi;
 
 ui_print "|===========================================|";
-ui_print "| AnjaniLauren Kernel Installed Successfully.|";
+ui_print "| AnjaniLauren Kernel Installed Successfully|";
 ui_print "=============================================";
 
 export PATH="$OLD_PATH";
